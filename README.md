@@ -1,2 +1,2 @@
-# visual-programming
-visual programming
+# Visual-Programming
+Visual Programming
